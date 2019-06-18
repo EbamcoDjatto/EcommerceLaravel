@@ -34,7 +34,7 @@
                         </div>
 
                         <a href="19_cart.html" class="btn btn-medium btn--primary">
-                            <span class="text">Add to Cart</span>
+                            <span class="text">Add to Credit Cart</span>
                             <i class="seoicon-commerce"></i>
                             <span class="semicircle"></span>
                         </a>
